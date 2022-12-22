@@ -1,0 +1,62 @@
+.clickable { cursor: pointer; }
+.pull-right { float: right; }
+.pull-left { float: left; }
+.regular { font-family: 'Open Sans Regular',sans-serif; }
+.semibold { font-family: 'Open Sans SemiBold',sans-serif; }
+.bold { font-family: 'Open Sans Bold',sans-serif; }
+.extrabold { font-family: 'Open Sans ExtraBold',sans-serif; }
+.italic { font-family: 'Open Sans Italic',sans-serif; }
+.no-margin { margin: 0 !important; }
+.no-padding { padding: 0 !important; }
+.red { color: #E00000; }
+.green { color: #298000; }
+.fs11 { font-size: 11px; }
+.fs15 { font-size: 15px; }
+.fs19 { font-size: 19px; }
+.w30 { width: 30px; }
+.w50 { width: 50px; }
+.h30 { height: 30px; }
+.w300 { width: 300px; }
+.mw800 { max-width: 800px; }
+.mh500 { max-height: 500px; }
+.ox_auto { overflow-x: auto; }
+.break { clear: both;margin-bottom: 10px; }
+.pt25 { padding-top: 25px; }
+.p15 { padding: 15px; }
+.p20 { padding: 20px; }
+.p30 { padding: 30px; }
+.pb0 { padding-bottom: 0px !important; }
+.pr0 { padding-right: 0; }
+.pr5 { padding-right: 5px; }
+.pr20 { padding-right: 20px; }
+.pl0 { padding-left: 0; }
+.pl5 { padding-left: 5px; }
+.pl20 { padding-left: 20px; }
+.mt5 { margin-top: 5px; }
+.mt20 { margin-top: 20px; }
+.mr0 { margin-right: 0px; }
+.mr5 { margin-right: 5px; }
+.mr10 { margin-right: 10px; }
+.mr15 { margin-right: 15px; }
+.mr20 { margin-right: 20px; }
+.mr50 { margin-right: 50px; }
+.mr100 { margin-right: 100px !important; }
+.mr150 { margin-right: 150px !important; }
+.ml20 { margin-left: 20px; }
+.mb5 { margin-bottom: 5px; }
+.mb10 { margin-bottom: 10px; }
+.mb15 { margin-bottom: 15px; }
+.mb20 { margin-bottom: 20px; }
+.mb30 { margin-bottom: 30px; }
+.mb50 { margin-bottom: 50px; }
+.h50 { height: 50px; }
+
+.inline-block { display: inline-block; }
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
+}
